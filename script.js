@@ -2,8 +2,6 @@ document.getElementById('button').addEventListener('click', calculatingButton)
 
 let circumferenceC
 let areaA
-let areaCircle
-let circumferenceCircle
 let radius
 
 function calculatingButton () {
